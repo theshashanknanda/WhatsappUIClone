@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/drawable-v24/ic_video2.xml" value="0.26614583333333336" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/drawable/edittext_bg.xml" value="0.26614583333333336" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/drawable/ic_avatar1.xml" value="0.26614583333333336" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/drawable/ic_back_arrow.xml" value="0.26614583333333336" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/drawable/ic_call.xml" value="0.26614583333333336" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/drawable/ic_menu.xml" value="0.26614583333333336" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/drawable/ic_video.xml" value="0.26614583333333336" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/layout/activity_caller_info.xml" value="0.25" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/layout/activity_chat.xml" value="0.264" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/layout/activity_main.xml" value="0.23550724637681159" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/layout/activity_status.xml" value="0.25" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/layout/call_info.xml" value="0.25" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/layout/call_row.xml" value="0.25" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/layout/calls_fragment.xml" value="0.23550724637681159" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/layout/chat_fragment.xml" value="0.23550724637681159" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/layout/chat_row.xml" value="0.152" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/layout/reciever_row.xml" value="0.25" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/layout/sender_row.xml" value="0.25" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/layout/status_fragment.xml" value="0.264" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/layout/status_row.xml" value="0.264" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/menu/main_menu.xml" value="0.25" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/mipmap-anydpi-v26/Whatsapp.png.xml" value="0.153125" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.153125" />
+        <entry key="..\:/WhatsappUIClone/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.153125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
